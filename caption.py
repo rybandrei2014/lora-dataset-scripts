@@ -1,7 +1,7 @@
 import ollama
 import os
 
-directory_path = r'output'
+directory_path = r'input'
 counter = 0
 for filename in os.listdir(directory_path):
     
